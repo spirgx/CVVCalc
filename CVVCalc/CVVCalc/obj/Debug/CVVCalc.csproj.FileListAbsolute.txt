@@ -1,0 +1,23 @@
+D:\CVVCalc\CVVCalc\bin\Debug\CVVCalc.exe.config
+D:\CVVCalc\CVVCalc\bin\Debug\CVVCalc.exe
+D:\CVVCalc\CVVCalc\bin\Debug\CVVCalc.pdb
+D:\CVVCalc\CVVCalc\obj\Debug\CVVCalc.csprojResolveAssemblyReference.cache
+D:\CVVCalc\CVVCalc\obj\Debug\CVVCalc.FormGenCVV.resources
+D:\CVVCalc\CVVCalc\obj\Debug\CVVCalc.Properties.Resources.resources
+D:\CVVCalc\CVVCalc\obj\Debug\CVVCalc.csproj.GenerateResource.Cache
+D:\CVVCalc\CVVCalc\obj\Debug\CVVCalc.exe
+D:\CVVCalc\CVVCalc\obj\Debug\CVVCalc.pdb
+D:\CVVCalc\CVVCalc\bin\Debug\ThalesCore.dll
+D:\新增資料夾 (2)\CVVCalc\CVVCalc\bin\Debug\CVVCalc.exe.config
+D:\新增資料夾 (2)\CVVCalc\CVVCalc\obj\Debug\CVVCalc.exe
+D:\新增資料夾 (2)\CVVCalc\CVVCalc\obj\Debug\CVVCalc.pdb
+D:\新增資料夾 (2)\CVVCalc\CVVCalc\bin\Debug\CVVCalc.exe
+D:\新增資料夾 (2)\CVVCalc\CVVCalc\bin\Debug\CVVCalc.pdb
+D:\新增資料夾 (2)\CVVCalc\CVVCalc\bin\Debug\ThalesCore.dll
+D:\新增資料夾 (2)\CVVCalc\CVVCalc\obj\Debug\CVVCalc.csprojResolveAssemblyReference.cache
+D:\新增資料夾 (2)\CVVCalc\CVVCalc\obj\Debug\CVVCalc.FormGenCVV.resources
+D:\新增資料夾 (2)\CVVCalc\CVVCalc\obj\Debug\CVVCalc.Properties.Resources.resources
+D:\新增資料夾 (2)\CVVCalc\CVVCalc\obj\Debug\CVVCalc.csproj.GenerateResource.Cache
+C:\Users\SPIR\Desktop\CVVCalc\CVVCalc\bin\Debug\CVVCalc.exe.config
+C:\Users\SPIR\Desktop\CVVCalc\CVVCalc\obj\Debug\CVVCalc.exe
+C:\Users\SPIR\Desktop\CVVCalc\CVVCalc\obj\Debug\CVVCalc.pdb
